@@ -1,5 +1,6 @@
-package Ch3;
+package ch3;
 
+/*1.打印1~100之间所有奇数的和*/
 public class Ch3Hw1 {
     public static void main(String[] args) {
         int sumOfOdd=0;
