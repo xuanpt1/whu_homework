@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sourceforge.htmlcleaner:htmlcleaner:2.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../java/maven-repository/net/sourceforge/htmlcleaner/htmlcleaner/2.26/htmlcleaner-2.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../java/maven-repository/net/sourceforge/htmlcleaner/htmlcleaner/2.26/htmlcleaner-2.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../java/maven-repository/net/sourceforge/htmlcleaner/htmlcleaner/2.26/htmlcleaner-2.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
